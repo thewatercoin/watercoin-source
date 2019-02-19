@@ -32,6 +32,11 @@ Raspberry Pi QT Wallet:
 https://github.com/thewatercoin/watercoin-source/releases/download/Wallets/watercoin-qt-raspberry.tar.gz 
 
 
+DAEMON (Windows & Linux)
+----------------
+
+https://github.com/thewatercoin/watercoin-source/releases/tag/Daemon
+
 
 What is WaterCoin?
 ----------------
