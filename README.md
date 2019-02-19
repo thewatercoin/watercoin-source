@@ -3,19 +3,41 @@ WaterCoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/watercoin-project/watercoin.svg?branch=master)](https://travis-ci.org/watercoin-project/watercoin)
 
-https://watercoin.org
+USEFUL LINKS
+----------------
+Website: https://wtrcoin.io/en
+Whitepaper: https://wtrcoin.io/assets/whitepaper_en.pdf
+Facebook: https://www.facebook.com/Watercoin-WTR-2144726212408130/?ref=bookmarks
+Twitter: https://twitter.com/watercoinWTR
+LinkedIn: https://www.linkedin.com/company/watercoin/
+
+Linux QT Wallet: https://github.com/thewatercoin/watercoin-source/releases/download/Wallets/watercoin-qt-linux.tar.gz
+Windows QT Wallet: https://github.com/thewatercoin/watercoin-source/releases/download/Wallets/watercoin-qt-windows.zip 
+MAC OS QT Wallet: https://github.com/thewatercoin/watercoin-source/releases/download/Wallets/watercoin-qt-macos.dmg
+Raspberry Pi QT Wallet: https://github.com/thewatercoin/watercoin-source/releases/download/Wallets/watercoin-qt-raspberry.tar.gz
+
 
 What is WaterCoin?
 ----------------
+The WTR watercoin will allow O'CLAIRE, a subsidiary of SUNWATERLIFE, 
+to have sufficient means to distribute its O'CLAIRE drinking water on 3 continents. 
+The sums raised will be used in particular to acquire and set up drinking water production units, set up production, distribution and sales 
+and marketing teams, and make the necessary communications investments to deploy the brand. 
+A portion of the amounts raised will be locked in to meet sufficient financial guarantees.
 
-WaterCoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. WaterCoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. WaterCoin Core is the name of open source
-software which enables the use of this currency.
+What is O'CLAIRE?
+----------------
+O'CLAIRE, a subsidiary of SUNWATERLIFE, was created out of the desire to provide drinking water to all, at prices adapted to the populations 
+of emerging areas and above all to ensure its quality and safety throughout the value chain: supply and control of production units, 
+own operation with local teams, maintenance, control, testing and management. To achieve this, we pool expertise, ideas and people who have a culture 
+and know-how that can make O'CLAIRE's ambition a reality: to develop a brand of drinking water in bulk and in bottles that is accessible to everyone, on 3 continents. 
+Through a decentralized network of autonomous Sunwaterlife kiosks, connected locally and globally, O'CLAIRE will provide 500 million litres of drinking water per year, 
+giving more than 1 million inhabitants access to quality water. Beyond the supply of drinking water, O'CLAIRE wishes to develop an ecosystem with partners providing 
+related products and services, by allowing them to use the WTR watercoin, a cryptocurrency created during this ICO. Without being exhaustive, we imagine for example the 
+supply of electricity (via our solar panels), the sale of ice cubes, the sale of syrups, the charging of mobile phones...
 
 For more information, as well as an immediately useable, binary version of
-the WaterCoin Core software, see [https://watercoin.org](https://watercoin.org).
+the WaterCoin Core software, see [https://wtrcoin.io/en](https://wtrcoin.io/en).
 
 License
 -------
