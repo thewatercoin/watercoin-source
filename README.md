@@ -14,9 +14,10 @@ Facebook: https://www.facebook.com/Watercoin-WTR-2144726212408130/?ref=bookmarks
 Twitter: https://twitter.com/watercoinWTR 
 
 LinkedIn: https://www.linkedin.com/company/watercoin/ 
- 
 
-[WALLETS] 
+
+WALLETS
+----------------
 
 Linux QT Wallet: 
 https://github.com/thewatercoin/watercoin-source/releases/download/Wallets/watercoin-qt-linux.tar.gz 
